@@ -1,9 +1,7 @@
 # Travel With Us  
 
 Repositório para alojar o projeto desenvolvido para "Tecnologias Web", uma unidade curricular do segundo ano do curso Tecnologia de Comunicação Multimédia na UMAIA.  
-Desenvolvido pelo **tcm24twg05**:  
-- @JorgeConceicao-umaia
-- @fmsj0
+Desenvolvido por **tcm24twg05**
 
 ---
 
@@ -122,7 +120,7 @@ Adicione pelo menos uma secção por capítulo:
 
 ---
 
-## Equipa  
+## Grupo
 
-- Jorge Conceição
-- Francisco Dias
+- @JorgeConceicao-umaia
+- @fmsj0
