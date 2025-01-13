@@ -102,21 +102,20 @@ As tecnologias utilizadas foram:
 
 ---
 
-## Relatório  
+## Report
 
-Adicione pelo menos uma secção por capítulo:  
+### Project Presentation – Apresentação do projeto
+- [Proposta](#)
+### Interface do utilizador
+- [Organização](#)
+### Produto
+- [Configuração](#)
+- [Validação](#)
+- [Implementação](#)
 
-### Apresentação do Projeto  
-**Capítulo 1:** Apresentação do Projeto  
-
-### Interface do Utilizador  
-**Capítulo 2:** Protótipo e Mapa do Site da Interface do Utilizador  
-
-### Produto  
-**Capítulo 3:** Produto  
-
-### Apresentação  
-**Capítulo 4:** Apresentação  
+### Apresentação
+- [Apresentação](#)
+  
 
 ---
 
