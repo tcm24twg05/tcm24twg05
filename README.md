@@ -78,30 +78,24 @@ O código-fonte encontra-se na pasta. [`Web`](/Web)
 
 ## Galeria  
 
-Por favor, forneça uma galeria com o resultado final. Utilize imagens pequenas e, se necessário, organize-as numa tabela.  
+Aqui estão os resultados finais do projeto:
+
+| ![Imagem 1](prints/print1.png) | ![Imagem 2](prints/print2.png) | ![Imagem 3](prints/print3.png) |
+|---------------------------------------|---------------------------------------|---------------------------------------|
+| Descrição 1                           | Descrição 2                           | Descrição 3                           |
+| ![Imagem 4](caminho/para/imagem4.jpg) | ![Imagem 5](caminho/para/imagem5.jpg) | ![Imagem 6](caminho/para/imagem6.jpg) |
+| Descrição 4                           | Descrição 5                           | Descrição 6                           |
+
 
 ---
 
 ## Tecnologias  
 
-As tecnologias utilizadas neste trabalho incluem:  
+As tecnologias utilizadas foram:  
 
 - [XML](https://www.w3schools.com/xml/)  
 - [HTML](https://www.w3schools.com/Html/) + [CSS3](https://www.w3schools.com/css/)  
 - [JavaScript](https://www.w3schools.com/js/) 
-
----
-
-## Frameworks e Bibliotecas  
-
-As bibliotecas adicionais utilizadas foram:  
-
-- [Docker](https://www.docker.com/)  
-- [Multipass](https://multipass.run/)  
-- [NodeJS](https://nodejs.org/)  
-- [jQuery](https://jquery.com/)  
-- [Laravel](https://laravel.com/)  
-- [Bootstrap](https://getbootstrap.com/)  
 
 ---
 
