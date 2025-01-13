@@ -105,13 +105,11 @@ As tecnologias utilizadas foram:
 ## Report
 
 ### Project Presentation – Apresentação do projeto
-- [Proposta](#)
+- [Proposta](Relatório/Proposta)
 ### Interface do utilizador
-- [Organização](#)
+- [Organização](Relatório/InterfaceUtilizador)
 ### Produto
-- [Configuração](#)
-- [Validação](#)
-- [Implementação](#)
+- [Produto](Relatório/Produto)
 
 ### Apresentação
 - [Apresentação](#)
