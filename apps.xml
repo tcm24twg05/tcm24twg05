@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<guia>
+    <titulo>Recomendações de apps úteis para viagens</titulo>
+    <descricao>Com a tecnologia certa, você pode planear e aproveitar melhor sua viagem.</descricao>
+    <dicas>
+        <dica>
+            <nome>Google Maps</nome>
+            <utilidade>Para navegar e descobrir lugares próximos.</utilidade>
+        </dica>
+        <dica>
+            <nome>Skyscanner</nome>
+            <utilidade>Para encontrar passagens aéreas baratas.</utilidade>
+        </dica>
+        <dica>
+            <nome>PackPoint</nome>
+            <utilidade>Um organizador de malas baseado no destino e duração da viagem.</utilidade>
+        </dica>
+        <dica>
+            <nome>Duolingo</nome>
+            <utilidade>Para aprender frases básicas no idioma local.</utilidade>
+        </dica>
+    </dicas>
+</guia>
