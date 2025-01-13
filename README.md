@@ -80,11 +80,16 @@ O código-fonte encontra-se na pasta. [`Web`](/Web)
 
 Aqui estão os resultados finais do projeto:
 
-| ![Imagem 1](prints/print1.png) | ![Imagem 2](prints/print2.png) | ![Imagem 3](prints/print3.png) |
+| ![Imagem 1](prints/print1.png)        | ![Imagem 2](prints/print2.png)        | ![Imagem 3](prints/print3.png)        |
 |---------------------------------------|---------------------------------------|---------------------------------------|
-| Descrição 1                           | Descrição 2                           | Descrição 3                           |
-| ![Imagem 4](caminho/para/imagem4.jpg) | ![Imagem 5](caminho/para/imagem5.jpg) | ![Imagem 6](caminho/para/imagem6.jpg) |
-| Descrição 4                           | Descrição 5                           | Descrição 6                           |
+| Página Inicial                        | Página dos Destinos                   | Página das Dicas                      |
+| ![Imagem 4](prints/print4.png)        | ![Imagem 5](prints/print5.png)        | ![Imagem 6](prints/print6.png)        |
+| Página de Sobre Nós                   | Estilo Dedicado á Página de Tóquio    | Estilo Dedicado á Página de Paris     |
+
+| ![Imagem 7](prints/print7.png)        |
+|---------------------------------------|
+| Estilo Dedicado á Página de Bali    |
+
 
 
 ---
