@@ -33,11 +33,11 @@ Os cartões visuais destacam os destinos de forma atrativa, incentivando o utili
 ### **Design Escolhido**
 - **Caixas individuais para cada criador**: Organizadas como painéis simples que mostram as nossas caras e links associados.
 - **Estilo consistente com o site**: As caixas possuem um design limpo e facilmente navegável, alinhado com o restante do website.
-- [Sketch 4](sketch4.png) 
+- ![Sketch 4](sketch4.png) 
 
 ### **Justificação**
 A organização das nossas caras em painéis permite que o conteúdo seja apresentado de forma clara e prática.
 
 ---
-[Sitemap](sitemap.png)
+![Sitemap](sitemap.png)
 Essas escolhas de design refletem o compromisso com uma experiência de usuário simples, informativa e visualmente atraente, alinhada com a missão do site "Travel With Us".
