@@ -105,11 +105,11 @@ As tecnologias utilizadas foram:
 ## Report
 
 ### Project Presentation – Apresentação do projeto
-- [Proposta](Relatório/Proposta)
+- [Proposta](Relatório/Proposta.md)
 ### Interface do utilizador
-- [Organização](Relatório/InterfaceUtilizador)
+- [Organização](Relatório/InterfaceUtilizador.md)
 ### Produto
-- [Produto](Relatório/Produto)
+- [Produto](Relatório/Produto.md)
 
 ---
 
